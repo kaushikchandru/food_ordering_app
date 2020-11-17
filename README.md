@@ -3,7 +3,7 @@ A new Flutter application for online furniture shopping.
 Design Credit : https://dribbble.com/shots/6606374-Sushi-Food-ordering-Application
 
 # Tutorial
-Tutorial link : https://youtu.be/DHCJfphUgnE
+Tutorial link : https://youtu.be/IS_7066vA68
 
 ## Author
 If you like my work, please consider supporting me with your kind contribution. Thank you!!!
